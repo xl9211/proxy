@@ -11,3 +11,4 @@ DOMAIN-SUFFIX, bituniverse.org, proxy
 DOMAIN-SUFFIX, binance.com, proxy
 DOMAIN-SUFFIX, coingecko.com, proxy
 DOMAIN-SUFFIX, etherscan.io, proxy
+DOMAIN-SUFFIX, shadowsocks.nz, proxy
