@@ -1,14 +1,14 @@
-DOMAIN-SUFFIX, tradingview.com, proxy
-DOMAIN-SUFFIX, ledger.com, proxy
-DOMAIN-SUFFIX, zerion.io, proxy
-DOMAIN-SUFFIX, rarible.com, proxy
-DOMAIN-SUFFIX, opensea.io, proxy
-DOMAIN-SUFFIX, coinmarketcap.com, proxy
-DOMAIN-SUFFIX, www.bnbzh.ac, proxy
-DOMAIN-SUFFIX, uniswap.org, proxy
-DOMAIN-SUFFIX, binance.cloud, proxy
-DOMAIN-SUFFIX, bituniverse.org, proxy
-DOMAIN-SUFFIX, binance.com, proxy
-DOMAIN-SUFFIX, coingecko.com, proxy
-DOMAIN-SUFFIX, etherscan.io, proxy
-DOMAIN-SUFFIX, shadowsocks.nz, proxy
+DOMAIN-SUFFIX, tradingview.com
+DOMAIN-SUFFIX, ledger.com
+DOMAIN-SUFFIX, zerion.io
+DOMAIN-SUFFIX, rarible.com
+DOMAIN-SUFFIX, opensea.io
+DOMAIN-SUFFIX, coinmarketcap.com
+DOMAIN-SUFFIX, www.bnbzh.ac
+DOMAIN-SUFFIX, uniswap.org
+DOMAIN-SUFFIX, binance.cloud
+DOMAIN-SUFFIX, bituniverse.org
+DOMAIN-SUFFIX, binance.com
+DOMAIN-SUFFIX, coingecko.com
+DOMAIN-SUFFIX, etherscan.io
+DOMAIN-SUFFIX, shadowsocks.nz
